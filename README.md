@@ -42,15 +42,7 @@ no API key, no cloud service.
 
 ## Quick Start
 
-```bash
-# From the monorepo root
-git clone https://github.com/ZeroHackOrg/zerohack-geek-tools.git
-cd zerohack-geek-tools
-npm install
-npm run geek:pal -- ask "hello"
-```
-
-**Standalone:**
+### Standalone
 
 ```bash
 git clone https://github.com/ZeroHackOrg/zerohack-pal.git
